@@ -1,0 +1,15 @@
+.group{
+    width: 180px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+}
+input,select{
+    border:0;
+}
+input{
+    padding-left: 10px;
+}
+select{
+    padding: 15px;
+}
